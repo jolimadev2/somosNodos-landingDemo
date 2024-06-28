@@ -1,0 +1,15 @@
+/* src/index.css */
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos personalizados */
+.btn {
+    @apply bg-white text-black py-2 px-4 rounded transition duration-300;
+  }
+  
+  .btn:hover {
+    @apply bg-black text-white;
+  }
