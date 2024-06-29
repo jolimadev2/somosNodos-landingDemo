@@ -13,7 +13,7 @@ const Header = () => {
           <ul className="flex space-x-4">
           <li>
               <a href="#about-us" className="text-gray-400 hover:text-white">
-                About Us
+                Nosotros
               </a>
             </li>
             <li>
@@ -23,7 +23,7 @@ const Header = () => {
             </li>
             <li>
               <a href="#follow-us" className="text-gray-400 hover:text-white">
-                Follow us
+                Síguenos
               </a>
             </li>
             <li>
