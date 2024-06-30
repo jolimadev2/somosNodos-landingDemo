@@ -2,7 +2,7 @@ import React from 'react'
 
 const FollowUs = () => {
   return (
-    <section className="bg-gray-800 text-white py-8">
+    <section className="bg-gray-800 text-white pt-8 pb-10 mt-10 mb-10">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <h2 className="text-3xl font-bold mb-4">Síguenos</h2>
       <div className="flex justify-center space-x-4">

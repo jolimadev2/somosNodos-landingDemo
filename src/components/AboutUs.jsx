@@ -2,9 +2,9 @@ import React from "react";
 
 const AboutUs = () => {
   return (
-    <section id="about-us" className="bg-dark py-16"> {/* Aumenté el padding vertical */}
+    <section id="about-us" className="bg-dark py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center">
+        <div className="text-center pt-10 pb-10"> {/* espaciado de padding entre la seccion abuot us y las cards */}
         <h2 className="text-3xl font-bold text-white mb-4">
             Somos Nodos
           </h2>
