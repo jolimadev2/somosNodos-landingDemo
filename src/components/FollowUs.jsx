@@ -9,10 +9,10 @@ const FollowUs = () => {
         <a href="https://spotify.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
           <i className="fab fa-spotify fa-4x"></i>
         </a>
-        <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+        <a href="https://www.youtube.com/channel/UCVYQ6mxQymV4kBYNnfwrN7g" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
           <i className="fab fa-youtube fa-4x"></i>
         </a>
-        <a href="https://www.linkedin.com/in/juanolima/?locale=en_US" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
+        <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
           <i className="fab fa-linkedin fa-4x"></i>
         </a>
         <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
