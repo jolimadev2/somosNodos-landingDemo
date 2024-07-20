@@ -1,27 +1,27 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCode, faMoneyCheckDollar, faNotesMedical } from "@fortawesome/free-solid-svg-icons";
+import { faCode, faMoneyCheckDollar, faBrain } from "@fortawesome/free-solid-svg-icons";
 
 
 const episodes = [
   {
-    title: "Episodio 1",
-    description: "Descripción del episodio 1",
-    link: "#",
-    icon: faCode
-  },
-  {
-    title: "Episodio 2",
-    description: "Descripción del episodio 2",
+    title: "EPISODIO 1: La importancia de la Educación Financiera. Lic.Nicolás Villada",
+    description: "Grabado en el 2021. Esta vez nos sentamos con Nicolás Villada, Contador Público graduado de la UNC, Argentina.",
     link: "#",
     icon: faMoneyCheckDollar
   },
   {
-    title: "Episodio 3",
-    description: "Descripción del episodio 3",
+    title: "Episodio 2: Unipersonal",
+    description: "Introspección en solitario sobre la importancia de la comunicación y el respeto hacia diferentes perspectivas.",
     link: "#",
-    icon: faNotesMedical
+    icon: faBrain
   },
+  {
+    title: "Episodio 3: El camino en IT",
+    description: "Nuestro invitado/a nos comenta acerca de historia en IT, comienzos y tips para forjar la adaptabilidad en un mercado en constante movimiento.",
+    link: "#",
+    icon: faCode 
+  }
 ];
 
 const Cards = () => {
