@@ -5,6 +5,7 @@ import CallToAction from '../components/CallToAction';
 import Footer from '../components/Footer';
 import FollowUs from '../components/FollowUs';
 import AboutUs from '../components/AboutUs';
+import Sponsor from '../components/Sponsor';
 
 
 export const Home = () => {
@@ -23,6 +24,9 @@ export const Home = () => {
         </section>
         <section id="newsletter" className="py-8">
           <CallToAction />
+        </section>
+        <section>
+          <Sponsor />
         </section>
       </main>
       <Footer/>
