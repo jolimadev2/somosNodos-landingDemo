@@ -7,19 +7,19 @@ const episodes = [
   {
     title: "EPISODIO 1: La importancia de la Educación Financiera. Lic.Nicolás Villada",
     description: "Grabado en el 2021. Esta vez nos sentamos con Nicolás Villada, Contador Público graduado de la UNC, Argentina.",
-    link: "#",
+    link: "https://www.youtube.com/@somosnodos",
     icon: faMoneyCheckDollar
   },
   {
     title: "Episodio 2: Unipersonal",
     description: "Introspección en solitario sobre la importancia de la comunicación y el respeto hacia diferentes perspectivas.",
-    link: "#",
+    link: "https://www.youtube.com/@somosnodos",
     icon: faBrain
   },
   {
     title: "Episodio 3: El camino en IT",
     description: "Nuestro invitado/a nos comenta acerca de historia en IT, comienzos y tips para forjar la adaptabilidad en un mercado en constante movimiento.",
-    link: "#",
+    link: "https://www.youtube.com/@somosnodos",
     icon: faCode 
   }
 ];
