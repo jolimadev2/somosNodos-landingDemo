@@ -17,8 +17,8 @@ const episodes = [
     icon: faBrain
   },
   {
-    title: "Episodio 3: El camino en IT",
-    description: "Nuestro invitado/a nos comenta acerca de historia en IT, comienzos y tips para forjar la adaptabilidad en un mercado en constante movimiento.",
+    title: "Episodio 3: Adaptabilidad al cambiar de Carrera. Developer Felipe Machado",
+    description: "Nuestro invitado Felipe Machado nos comparte su historia en IT y consejos para forjar la adaptabilidad en un mercado en constante movimiento.",
     link: "https://www.youtube.com/@somosnodos",
     icon: faCode 
   }
@@ -42,7 +42,7 @@ const Cards = () => {
             rel="noopener noreferrer"
             className="inline-block bg-black text-white py-2 px-4 rounded-lg hover:bg-white hover:text-black transition duration-300 ease-in-out"
           >
-            Escuchar en Spotify
+            Escuchar
           </a>
         </div>
       ))}

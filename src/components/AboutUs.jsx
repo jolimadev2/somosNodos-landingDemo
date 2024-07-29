@@ -9,10 +9,10 @@ const AboutUs = () => {
             Somos Nodos
           </h2>
           <p className="text-lg text-gray-400 mb-6">
-            Somos Nodos es un podcast donde escucharás historias inspiradoras de expertos en diversos campos. Conoce sus experiencias, anécdotas y perspectivas sobre temas actuales, tabú y lo importante: "cosas que no sabemos que no sabemos".
+            Somos Nodos es un podcast donde conoceras historias inspiradoras de expertos en diversos campos. <br/>Experiencias, anécdotas, perspectivas sobre temas actuales y lo importante: "Cosas que no sabemos..que no sabemos".
           </p>
           <p className="text-lg text-gray-400 mb-6">
-            Descubre reflexiones profundas y aprendizajes valiosos en cada episodio. Nuestro objetivo es que saques tus propias conclusiones.
+            Escucha activamente cada episodio. <br/> <strong>Nuestro objetivo es crear una comunidad de oyentes que saquen su propias conclusiones.</strong>
           </p>
         </div>
       </div>

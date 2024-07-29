@@ -1,4 +1,6 @@
 import React from "react";
+import myLogo from '../assets/logo-podcast.png';
+
 
 const Header = () => {
   return (
@@ -6,8 +8,11 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
         <div className="flex items-center">
           <h1 className="text-4xl font-bold flex items-center">
-            <i className="fas fa-microphone-alt mr-2"></i> Somos Nodos
+            {/* <i className="fas fa-microphone-alt mr-2"></i> Somos Nodos */}
+            <img className="object-position: left top;
+ w-24 h-24" src={myLogo} alt="My Logo" />
           </h1>{" "}
+          
         </div>
         <nav>
           <ul className="flex space-x-4">
